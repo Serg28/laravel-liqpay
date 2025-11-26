@@ -13,7 +13,7 @@
     "minimum-stability": "stable",
     "require": {
         "laravel/framework": "^9||^10||^11||^12",
-        "nesbot/carbon": "^2.16",
+        "nesbot/carbon": "^3.0",
         "guzzlehttp/guzzle": "^7.0"
     },
     "extra": {
